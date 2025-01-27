@@ -2,7 +2,7 @@ import Footer from "./components/Footer"
 import Header from "./components/Header"
 import './app.scss'
 import React from "react"
-import Items from "./components/items"
+import Items from "./components/Items"
 import ChairGrey from './assets/img/chairgrey.jpg'
 import Table from './assets/img/table.jpg'
 import Sofa from './assets/img/tableblack.jpg'
